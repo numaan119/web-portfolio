@@ -59,7 +59,8 @@ section{
 #front-end{
     border-left: 5px solid rgb(73, 52, 192);
 }
-footer{
+footer p{
     border:  5 px solid; 
-    background-color: whitesmoke;
+    background-color: whitesmoke ;
+    text-align: center;
 }
