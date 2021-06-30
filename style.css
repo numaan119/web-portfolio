@@ -42,5 +42,24 @@ section{
     background-position: right;
     background-repeat: no-repeat;
 }
-
-
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: white;
+}
+#full-stack{
+    border-left:5px solid orange;
+}
+#front-end{
+    border-left: 5px solid rgb(73, 52, 192);
+}
+footer{
+    border:  5 px solid; 
+    background-color: whitesmoke;
+}
